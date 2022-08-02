@@ -15,7 +15,7 @@
 
   Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/filmlane/"><strong>➥ Live Demo</strong></a>
+  <a href="https://neoprisoner.github.io/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
