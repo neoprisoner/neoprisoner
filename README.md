@@ -43,7 +43,7 @@ git clone https://github.com/neoprisoner/neoprisoner.github.io
 
 ### Contact
 
-If you want to contact with me you can't reach me.
+If you want to contact me, please don't.
 
 ### License
 
